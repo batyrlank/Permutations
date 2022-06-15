@@ -22,7 +22,7 @@ bool next_permutation(BidirIt first, BidirIt last)
 }
 
 int main() {
-    cout<<"Enter a string without spaces"<<endl;
+    cout << "Enter a string without spaces" << endl;
     string s; 
     cin >> s;
     long long total = 0;
